@@ -1,0 +1,47 @@
+
+* what is _thinking? (understanding?)
+* Digression: recursion
+** file system
+*** take 1
+**** x is a file-system element iff
+***** x is a file, or
+***** x is a folder
+*** x is a folder iff 
+**** x is a container can contain files or other folders
+***** ie x is a folder iff x is a container of file system elements
+*** take 2
+**** x is a file-system element iff
+***** x is a file, or
+***** x is a container of file-system elements
+** General form:
+*** X is a Y iff
+**** X is one of some contained set of simple objects
+**** X is a set or list of Y's
+** Can easily see how language is recursive
+*** p is a language-like sequence iff p is a letter of the alphabet or p is a sequence of p's
+
+* constraints on solution
+** don't worry about subjective aspect.
+*** just want to know what ...
+* Examples
+** Making tea
+** Commuting to work 
+** recognizing a poker hand as a straight (potential straight)
+** recognizing a piece as being like Bach / (Van Morrison ?)
+* Need:
+** at a minimum,
+*** recursive pattern generators
+*** recursive pattern recognizers
+** Patterns:
+*** basic vocabulary
+*** similarity metric
+**** Einstein shirt in youtube by fowler collaborator
+** anything else?
+** metric over patterns - _same pattern_ ?
+*** crude proximity detector
+*** there are just patterns
+** intermodal patterns: un-ordered associations
+** criterion of interestingness.
+*** When should patterns be saved?
+****  p is interesting iff
+***** p is not (nearly) identical to any stored pattern
