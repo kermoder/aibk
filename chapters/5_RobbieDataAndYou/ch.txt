@@ -1,0 +1,35 @@
+
+_For historical clarity, I'll revert in this chapter to the term 'artificial intelligence', as the name for what's of interest here_.
+
+The history of our understanding of artificial intelligence is interesting in its own right, but also because it in part explains an important trend in current attitudes toward the technology we're interested in.  
+
+
+Turing - the connection (evidence of)
+* known for mathematical formalization of computation
+* Turing test
+* coincidence ?
+
+The two visions
+* Cognitive science / GOFAI
+* Research project (financial bubble ?)
+* Mculloch neuron - simulation.
+* Simulations
+
+The battle
+* Perceptrons
+* Society of mind
+* Chomskian linguistics
+
+The dominant view
+* GOFAI
+* SciFi
+
+The effect of the dominance of GOFAI
+* Its failure to fulfill expectations led to the (congenial) view that intelligence is extremely hard to replicate artificially (near impossible?)
+* => Complacence ab
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+ 
+* history
+** the two visions
+** Turing
+*** machines which take in information and can manipulate it arbitrarily
+** perceptrons
+** outcome
+* legacy of gofai
+** science fiction
+** frame problem
+** was wrong
+** predicted sci fi imminent
+** was wrong
+** lesson: intelligence (_thinking) much harder to emulate than we thought
+*** we don't have to worry about 
+
+* bibliography
+** biography of Turing.
+** perceptrons
+** sci fi
+*** Robbie the Robot
+*** HAL
+*** Data - Star Trek TNG
+*** C3PO / R2D2
+*** AI's in original Star Trek
+
+
+* History:
+** Turing
+** legacy: gofai
+* GOFAI has dominated popular understanding
+* GOFAI has not delivered (because it's mistaken)
+* Failure of GOFAI to deliver has fostered the belief that AI is extremely hard to replicate
+* People believe something false about ai.
+** evidence of complacence
+*** (Musk and self-driving cars)
+* People are not mindful enough about the incipient arrival full, real ai.
+** rate of progress
+** if current tech is not fully there, is it a safe bet to assume it's a long way off?
